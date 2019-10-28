@@ -11,5 +11,5 @@
 ***
 
 更新内容记录：
-- 2019.10.28 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)新增`apply()同时返回多列互相分离数据的方法`
+- 2019.10.28 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)新增`apply()同时返回多列数据的方法`
 
