@@ -8,7 +8,7 @@
 已更新博客列表：
 - [（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)
 - [（数据科学学习手札70）面向数据科学的Python多进程简介及应用](https://www.cnblogs.com/feffery/p/11621076.html)
-- [（数据科学学习手札71）在Python中制作个性化词云图](https://www.cnblogs.com/feffery/p/11842798.html)
+- [（数据科学学习手札71）利用Python绘制词云图](https://www.cnblogs.com/feffery/p/11842798.html)
 
 ***
 
