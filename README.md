@@ -19,5 +19,5 @@
 ***
 
 ### :running: To-do List:
-- [ ]  **基于geopandas的地理空间数据分析**
+- [ ]  **基于geopandas的地理空间数据分析系列文章**
 - [ ]  **在R中利用dplyr进行数据分析**
