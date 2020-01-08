@@ -21,4 +21,4 @@
 ### :running: To-do List:
 - [ ]  **利用pdpipe搭建pandas流水线**
 - [ ]  **基于geopandas的地理空间数据分析系列文章**
-- [ ]  **在R中利用dplyr进行数据分析**
+- [ ]  **dplyr快速入门**
