@@ -22,3 +22,4 @@
 - [ ]  **利用pdpipe搭建pandas流水线**
 - [ ]  **基于geopandas的地理空间数据分析系列文章**
 - [ ]  **dplyr快速入门**
+- [ ]  **针对plotly新版本以及plotly express的教程文章**
