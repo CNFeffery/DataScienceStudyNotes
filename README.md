@@ -9,6 +9,7 @@
 - [（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)
 - [（数据科学学习手札70）面向数据科学的Python多进程简介及应用](https://www.cnblogs.com/feffery/p/11621076.html)
 - [（数据科学学习手札71）利用Python绘制词云图](https://www.cnblogs.com/feffery/p/11842798.html)
+- [（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线](https://www.cnblogs.com/feffery/p/12179647.html)
 
 ***
 
@@ -19,7 +20,7 @@
 ***
 
 ### :running: To-do List:
-- [ ]  **利用pdpipe搭建pandas流水线**
-- [ ]  **基于geopandas的地理空间数据分析系列文章**
-- [ ]  **dplyr快速入门**
-- [ ]  **针对plotly新版本以及plotly express的教程文章**
+- [x] **利用pdpipe搭建pandas流水线**
+- [ ] **基于geopandas的地理空间数据分析系列文章**
+- [ ] **dplyr快速入门**
+- [ ] **针对plotly新版本以及plotly express的教程文章**
