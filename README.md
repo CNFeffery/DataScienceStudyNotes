@@ -16,6 +16,7 @@
 ### :pencil2: 补充内容记录：
 - 2019.10.28 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)补充`apply()同时返回多列数据的方法`
 - 2019.11.26 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)补充`tqdm_notebook()版apply()进度条的方法`
+- 2020.01.15 为[（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线](https://www.cnblogs.com/feffery/p/12179647.html)补充`用算术相加法拼接流水线的方法`
 
 ***
 
