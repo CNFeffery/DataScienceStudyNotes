@@ -12,7 +12,7 @@
 - [（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线](https://www.cnblogs.com/feffery/p/12179647.html)
 - [（数据科学学习手札73）盘点pandas 1.0.0中的新特性](https://www.cnblogs.com/feffery/p/12214635.html)
 - [（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇](https://www.cnblogs.com/feffery/p/11898190.html)
-- [（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇)](https://www.cnblogs.com/feffery/p/12285828.html)
+- [（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇](https://www.cnblogs.com/feffery/p/12285828.html)
 
 ***
 
