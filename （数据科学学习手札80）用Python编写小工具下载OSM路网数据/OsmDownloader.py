@@ -35,7 +35,7 @@ class OsmDownloader:
 
         # 抽取点图层并保存
         points_contents = []
-        for element in tqdm(raw_osm_json['elements'], desc=f'{[self.area]}抽取点数据'):
+        for element in tqdm(raw_osm_json['elements'], desc=f'[{self.area}]抽取点数据'):
             if element['type'] == 'node':
                 points_contents.append((str(element['id']), element['lon'], element['lat']))
 
@@ -52,7 +52,7 @@ class OsmDownloader:
 
         # 保存线图层
         ways_contents = []
-        for element in tqdm(raw_osm_json['elements'], desc=f'{[self.area]}抽取线数据'):
+        for element in tqdm(raw_osm_json['elements'], desc=f'[{self.area}]抽取线数据'):
             if element['type'] == 'way':
                 if element['nodes'].__len__() >= 2:
                     ways_contents.append((str(element['id']), LineString([self.id2points[str(_)]
