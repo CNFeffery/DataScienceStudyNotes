@@ -45,6 +45,8 @@
 - [x] **盘点pandas 1.0.0中的新特性**
 - [ ] **基于geopandas的地理空间数据分析系列文章**
 - [ ] **Python中的进度条相关库**
+- [ ] **详解folium可视化**
 - [ ] **adjustText的使用**
 - [ ] **dplyr快速入门**
 - [ ] **针对plotly新版本以及plotly express的教程文章**
+
