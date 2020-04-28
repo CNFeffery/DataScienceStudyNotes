@@ -42,9 +42,7 @@
 ***
 
 ### :running: To-do List:
-- [x] **利用pdpipe搭建pandas流水线**
-- [x] **盘点pandas 1.0.0中的新特性**
-- [ ] **基于geopandas的地理空间数据分析系列文章**
+- [ ] **基于geopandas的地理空间数据分析系列文章**　***进行中*** :weight_lifting_man:
 - [ ] **Python中的进度条相关库**
 - [ ] **详解pandas中的表格风格化**
 - [ ] **详解folium可视化**
