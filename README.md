@@ -50,10 +50,10 @@
 
 ### :running: To-do List:
 - [ ] **基于geopandas的地理空间数据分析系列文章**　***进行中*** :weight_lifting_man:
+- [ ] **adjustText的使用**
 - [ ] **Python中的进度条相关库**
 - [ ] **详解pandas中的表格风格化**
 - [ ] **详解folium可视化**
-- [ ] **adjustText的使用**
 - [ ] **dplyr快速入门**
 - [ ] **针对plotly新版本以及plotly express的教程文章**
 - [ ] **xlwt+pandas玩转excel表格**
