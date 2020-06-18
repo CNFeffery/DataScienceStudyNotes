@@ -54,7 +54,7 @@
 - [ ] **基于geopandas的地理空间数据分析*****系列文章***　***进行中*** :weight_lifting_man:
 - [ ] **Python中的进度条相关库**
 - [ ] **详解pandas中的表格风格化**
-- [ ] **folium最佳实践系列文章**
+- [ ] **folium最佳实践*****系列文章***
 - [ ] **Superset*****系列文章***
 - [ ] **dplyr快速入门**
 - [ ] **针对plotly新版本以及plotly express的教程文章**
