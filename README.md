@@ -55,8 +55,9 @@
 - [ ] **Python中的进度条相关库**
 - [ ] **详解pandas中的表格风格化**
 - [ ] **folium最佳实践*****系列文章***
+- [ ] **plotly_express最佳实践*****系列文章***
 - [ ] **Superset*****系列文章***
 - [ ] **dplyr快速入门**
-- [ ] **针对plotly新版本以及plotly express的教程文章**
+- [ ] **plotly完全指南*****系列文章***
 - [ ] **xlwt+pandas玩转excel表格**
 
