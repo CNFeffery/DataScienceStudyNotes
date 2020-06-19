@@ -53,6 +53,7 @@
 - [x] **adjustText的使用**
 - [ ] **基于geopandas的地理空间数据分析*****系列文章***　***进行中*** :weight_lifting_man:
 - [ ] **Python中的进度条相关库**
+- [ ] **一文搞定matplotlib时间序列数据可视化**
 - [ ] **详解pandas中的表格风格化**
 - [ ] **folium最佳实践*****系列文章***
 - [ ] **plotly_express最佳实践*****系列文章***
