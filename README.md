@@ -25,11 +25,12 @@
 - [（数据科学学习手札85）Python+Kepler.gl轻松制作酷炫路径动画](https://www.cnblogs.com/feffery/p/12987968.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD85%EF%BC%89Python%2BKepler.gl%E8%BD%BB%E6%9D%BE%E5%88%B6%E4%BD%9C%E9%85%B7%E7%82%AB%E8%B7%AF%E5%BE%84%E5%8A%A8%E7%94%BB)
 - [（数据科学学习手札86）全平台支持的pandas运算加速神器](https://www.cnblogs.com/feffery/p/13049547.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD86%EF%BC%89%E5%85%A8%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%E7%9A%84pandas%E8%BF%90%E7%AE%97%E5%8A%A0%E9%80%9F%E7%A5%9E%E5%99%A8)
 - [（数据科学学习手札87）利用adjustText解决matplotlib文字标签遮挡问题](https://www.cnblogs.com/feffery/p/13072364.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD87%EF%BC%89%E5%88%A9%E7%94%A8adjustText%E8%A7%A3%E5%86%B3matplotlib%E6%96%87%E5%AD%97%E6%A0%87%E7%AD%BE%E9%81%AE%E6%8C%A1%E9%97%AE%E9%A2%98)
+- [（数据科学学习手札88）基于geopandas的空间数据分析——空间计算篇（下）](https://www.cnblogs.com/feffery/p/13129271.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD88%EF%BC%89%E5%9F%BA%E4%BA%8Egeopandas%E7%9A%84%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%94%E2%80%94%E7%A9%BA%E9%97%B4%E8%AE%A1%E7%AE%97%E7%AF%87%EF%BC%88%E4%B8%8B%EF%BC%89)
 
 ***
 
 ### :card_file_box: 专题系列：
-- :earth_asia: *基于geopandas的空间数据分析*　:swimming_man: `<连载中>`：
+- :earth_asia: *基于geopandas的空间数据分析*　:swimming_man: `<完结>`：
 
   - [（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇](https://www.cnblogs.com/feffery/p/11898190.html)<br>
   - [（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇](https://www.cnblogs.com/feffery/p/12285828.html)<br>
@@ -39,6 +40,7 @@
   - [（数据科学学习手札82）基于geopandas的空间数据分析——geoplot篇(上)](https://www.cnblogs.com/feffery/p/12779150.html)<br>
   - [（数据科学学习手札83）基于geopandas的空间数据分析——geoplot篇(下)](https://www.cnblogs.com/feffery/p/12901334.html)<br>
   - [（数据科学学习手札84）基于geopandas的空间数据分析——空间计算篇（上）](https://www.cnblogs.com/feffery/p/12909284.html)<br>
+  - [（数据科学学习手札88）基于geopandas的空间数据分析——空间计算篇（下）](https://www.cnblogs.com/feffery/p/13129271.html)<br>
 
 ***
 
@@ -51,7 +53,7 @@
 
 ### :running: To-do List:
 - [x] **adjustText的使用**
-- [ ] **基于geopandas的地理空间数据分析*****系列文章***　***进行中*** :weight_lifting_man:
+- [x] **基于geopandas的地理空间数据分析*****系列文章***　***已完结*** :weight_lifting_man:
 - [ ] **Python中的进度条相关库**
 - [ ] **一文搞定matplotlib时间序列数据可视化**
 - [ ] **详解pandas中的表格风格化**
