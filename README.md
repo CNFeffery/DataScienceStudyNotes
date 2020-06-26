@@ -62,5 +62,4 @@
 - [ ] **Superset*****系列文章***
 - [ ] **dplyr快速入门**
 - [ ] **plotly完全指南*****系列文章***
-- [ ] **xlwt+pandas玩转excel表格**
 
