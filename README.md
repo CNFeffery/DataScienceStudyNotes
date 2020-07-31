@@ -28,6 +28,7 @@
 - [（数据科学学习手札88）基于geopandas的空间数据分析——空间计算篇（下）](https://www.cnblogs.com/feffery/p/13129271.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD88%EF%BC%89%E5%9F%BA%E4%BA%8Egeopandas%E7%9A%84%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%94%E2%80%94%E7%A9%BA%E9%97%B4%E8%AE%A1%E7%AE%97%E7%AF%87%EF%BC%88%E4%B8%8B%EF%BC%89)
 - [（数据科学学习手札89）geopandas&geoplot近期重要更新](https://www.cnblogs.com/feffery/p/13233271.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD89%EF%BC%89geopandas%26geoplot%E8%BF%91%E6%9C%9F%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0)
 - [（数据科学学习手札90）Python+Kepler.gl轻松制作时间轮播地图](https://www.cnblogs.com/feffery/p/13322067.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD90%EF%BC%89Python+Kepler.gl%E8%BD%BB%E6%9D%BE%E5%88%B6%E4%BD%9C%E6%97%B6%E9%97%B4%E8%BD%AE%E6%92%AD%E5%9C%B0%E5%9B%BE)
+- [（数据科学学习手札91）在Python中妥善使用进度条](https://www.cnblogs.com/feffery/p/13392024.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD91%EF%BC%89%E5%9C%A8Python%E4%B8%AD%E5%A6%A5%E5%96%84%E4%BD%BF%E7%94%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1)
 
 ***
 
@@ -56,7 +57,7 @@
 ### :running: To-do List:
 - [x] **adjustText的使用**
 - [x] **基于geopandas的地理空间数据分析*****系列文章***　***已完结*** 🚩
-- [ ] **在Python中妥善使用进度条**
+- [x] **在Python中妥善使用进度条**
 - [ ] **详解matplotlib时间序列数据可视化**
 - [ ] **详解pandas中的表格风格化**
 - [ ] **folium最佳实践*****系列文章***
