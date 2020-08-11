@@ -30,6 +30,7 @@
 - [（数据科学学习手札90）Python+Kepler.gl轻松制作时间轮播地图](https://www.cnblogs.com/feffery/p/13322067.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD90%EF%BC%89Python+Kepler.gl%E8%BD%BB%E6%9D%BE%E5%88%B6%E4%BD%9C%E6%97%B6%E9%97%B4%E8%BD%AE%E6%92%AD%E5%9C%B0%E5%9B%BE)
 - [（数据科学学习手札91）在Python中妥善使用进度条](https://www.cnblogs.com/feffery/p/13392024.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD91%EF%BC%89%E5%9C%A8Python%E4%B8%AD%E5%A6%A5%E5%96%84%E4%BD%BF%E7%94%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1)
 - [（数据科学学习手札92）利用query()与eval()优化pandas代码](https://www.cnblogs.com/feffery/p/13440148.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD92%EF%BC%89%E5%88%A9%E7%94%A8query()%E4%B8%8Eeval()%E4%BC%98%E5%8C%96pandas%E4%BB%A3%E7%A0%81)
+- [（数据科学学习手札93）利用geopandas与PostGIS进行交互](https://www.cnblogs.com/feffery/p/13468203.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD93%EF%BC%89%E5%88%A9%E7%94%A8geopandas%E4%B8%8EPostGIS%E8%BF%9B%E8%A1%8C%E4%BA%A4%E4%BA%92)
 
 ***
 
