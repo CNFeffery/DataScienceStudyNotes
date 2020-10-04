@@ -33,6 +33,7 @@
 - [（数据科学学习手札93）利用geopandas与PostGIS进行交互](https://www.cnblogs.com/feffery/p/13468203.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD93%EF%BC%89%E5%88%A9%E7%94%A8geopandas%E4%B8%8EPostGIS%E8%BF%9B%E8%A1%8C%E4%BA%A4%E4%BA%92)
 - [（数据科学学习手札94）QGIS+Conda+jupyter玩转Python GIS](https://www.cnblogs.com/feffery/p/13558608.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD94%EF%BC%89QGIS+Conda+jupyter%E7%8E%A9%E8%BD%ACPython%20GIS)
 - [（数据科学学习手札95）elyra——jupyter lab平台最强插件集](https://www.cnblogs.com/feffery/p/13692800.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD95%EF%BC%89elyra%E2%80%94%E2%80%94jupyter%20lab%E5%B9%B3%E5%8F%B0%E6%9C%80%E5%BC%BA%E6%8F%92%E4%BB%B6%E9%9B%86)
+- [（数据科学学习手札96）在geopandas中叠加在线地图](https://www.cnblogs.com/feffery/p/13763601.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD96%EF%BC%89%E5%9C%A8geopandas%E4%B8%AD%E5%8F%A0%E5%8A%A0%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9B%BE)
 
 ***
 
