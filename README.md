@@ -39,7 +39,12 @@
 ***
 
 ### :card_file_box: 专题系列：
+
 - :earth_asia: *基于geopandas的空间数据分析*　🚩 `<完结>` [课程附件百度云下载地址](https://pan.baidu.com/s/1ZzbxAm-0-udUaLlhM_KP7w)（提取码：1syu）：
+
+    <p align="center">
+      <img src="https://img2020.cnblogs.com/blog/1344061/202011/1344061-20201106221445325-811461319.png" width="500"></img>
+    </p>
 
   - [（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇](https://www.cnblogs.com/feffery/p/11898190.html)<br>
   - [（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇](https://www.cnblogs.com/feffery/p/12285828.html)<br>
