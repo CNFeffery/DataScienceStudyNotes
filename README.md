@@ -43,7 +43,7 @@
 - :earth_asia: *基于geopandas的空间数据分析*　🚩 `<完结>` [课程附件百度云下载地址](https://pan.baidu.com/s/1ZzbxAm-0-udUaLlhM_KP7w)（提取码：1syu）：
 
     <p align="center">
-      <img src="https://img2020.cnblogs.com/blog/1344061/202011/1344061-20201106221445325-811461319.png" width="500"></img>
+      <img src="https://geopandas.readthedocs.io/en/latest/_static/geopandas_logo_web.svg" width="500"></img>
     </p>
 
   - [（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇](https://www.cnblogs.com/feffery/p/11898190.html)<br>
