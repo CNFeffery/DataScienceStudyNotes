@@ -13,8 +13,6 @@
 
 ***
 
-***
-
 <a name="first"></a>
 ## :books: 已更新博客列表：
 - [（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html) 　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD69%EF%BC%89%E8%AF%A6%E8%A7%A3pandas%E4%B8%AD%E7%9A%84map%E3%80%81apply%E3%80%81applymap%E3%80%81groupby%E3%80%81agg)
