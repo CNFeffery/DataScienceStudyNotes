@@ -8,8 +8,9 @@
 - :card_file_box: [2 专题系列](#second)
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [3 jupyter相关](#jupyter)
-- :wrench: [4 补充勘误内容记录](#third)
-- :running: [5 To-do List](#fourth)
+- :penguin: [4 kepler.gl相关](#keplergl)
+- :wrench: [5 补充勘误内容记录](#third)
+- :running: [6 To-do List](#fourth)
 
 ***
 
@@ -98,6 +99,18 @@
 - [（数据科学学习手札81）conda+jupyter玩转数据科学环境搭建](https://www.cnblogs.com/feffery/p/12609118.html)<br>
 - [（数据科学学习手札94）QGIS+Conda+jupyter玩转Python GIS](https://www.cnblogs.com/feffery/p/13558608.html)<br>
 - [（数据科学学习手札95）elyra——jupyter lab平台最强插件集](https://www.cnblogs.com/feffery/p/13692800.html)<br>
+
+***
+
+<a name="keplergl"></a>
+## :penguin: kepler.gl相关
+
+<p align="center">
+  <img src="https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/website/icons/kepler.gl-logo.png" width="320"></img>
+</p>
+
+- [（数据科学学习手札85）Python+Kepler.gl轻松制作酷炫路径动画](https://www.cnblogs.com/feffery/p/12987968.html)<br>
+- [（数据科学学习手札90）Python+Kepler.gl轻松制作时间轮播地图](https://www.cnblogs.com/feffery/p/13322067.html)<br>
 
 ***
 
