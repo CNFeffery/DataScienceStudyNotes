@@ -53,7 +53,7 @@
 ## :card_file_box: 专题系列：
 
 <a name="second-geopandas"></a>
-### :earth_asia: *基于geopandas的空间数据分析*　🚩 `<完结>` [课程附件百度云下载地址](https://pan.baidu.com/s/1ZzbxAm-0-udUaLlhM_KP7w)（提取码：1syu）：
+### :earth_asia: 基于geopandas的空间数据分析　🚩 `<完结>` [课程附件百度云下载地址](https://pan.baidu.com/s/1ZzbxAm-0-udUaLlhM_KP7w)（提取码：1syu）：
 
 <p align="center">
   <img src="https://geopandas.readthedocs.io/en/latest/_static/geopandas_logo_web.svg" width="500"></img>
