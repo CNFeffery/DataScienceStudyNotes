@@ -6,7 +6,7 @@
 # :carousel_horse: 目录
 - :books: [1 已更新博客列表](#first)
 - :card_file_box: [2 专题系列](#second)
-  - :earth_asia: [基于geopandas的空间数据分析 🚩 `<完结>`](#second-geopandas)
+  - :earth_asia: [2.1 基于geopandas的空间数据分析 🚩 `<完结>`](#second-geopandas)
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [3 jupyter相关](#jupyter)
 - :penguin: [4 kepler.gl相关](#keplergl)
@@ -53,7 +53,7 @@
 ## :card_file_box: 专题系列：
 
 <a name="second-geopandas"></a>
-### :earth_asia: 基于geopandas的空间数据分析　🚩 `<完结>` 
+### 1 :earth_asia: 基于geopandas的空间数据分析　🚩 `<完结>` 
 - [课程附件百度云下载地址](https://pan.baidu.com/s/1ZzbxAm-0-udUaLlhM_KP7w)（提取码：1syu）：
 
 <p align="center">
