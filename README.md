@@ -8,15 +8,15 @@
 - :card_file_box: [2 专题系列](#second)
   - :earth_asia: [2.1 基于geopandas的空间数据分析 🚩 `<完结>`](#second-geopandas)
 - :man_astronaut: [3 pandas相关](#pandas)
-- :ghost: [3 jupyter相关](#jupyter)
-- :penguin: [4 kepler.gl相关](#keplergl)
-- :wrench: [5 补充勘误内容记录](#third)
-- :running: [6 To-do List](#fourth)
+- :ghost: [4 jupyter相关](#jupyter)
+- :penguin: [5 kepler.gl相关](#keplergl)
+- :wrench: [6 补充勘误内容记录](#third)
+- :running: [7 To-do List](#fourth)
 
 ***
 
 <a name="first"></a>
-## :books: 已更新博客列表：
+## 1 :books: 已更新博客列表：
 - [（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html) 　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD69%EF%BC%89%E8%AF%A6%E8%A7%A3pandas%E4%B8%AD%E7%9A%84map%E3%80%81apply%E3%80%81applymap%E3%80%81groupby%E3%80%81agg)
 - [（数据科学学习手札70）面向数据科学的Python多进程简介及应用](https://www.cnblogs.com/feffery/p/11621076.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD70%EF%BC%89%E9%9D%A2%E5%90%91%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E7%9A%84Python%E5%A4%9A%E8%BF%9B%E7%A8%8B%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%BA%94%E7%94%A8)
 - [（数据科学学习手札71）利用Python绘制词云图](https://www.cnblogs.com/feffery/p/11842798.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD71%EF%BC%89%E5%9C%A8Python%E4%B8%AD%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AF%8D%E4%BA%91%E5%9B%BE)
@@ -50,10 +50,10 @@
 ***
 
 <a name="second"></a>
-## :card_file_box: 专题系列：
+## 2 :card_file_box: 专题系列：
 
 <a name="second-geopandas"></a>
-### 1 :earth_asia: 基于geopandas的空间数据分析　🚩 `<完结>` 
+### 2.1 :earth_asia: 基于geopandas的空间数据分析　🚩 `<完结>` 
 - [课程附件百度云下载地址](https://pan.baidu.com/s/1ZzbxAm-0-udUaLlhM_KP7w)（提取码：1syu）：
 
 <p align="center">
@@ -77,7 +77,7 @@
 ***
 
 <a name="pandas"></a>
-## :man_astronaut: pandas相关
+## 3 :man_astronaut: pandas相关
 
 <p align="center">
   <img src="https://pandas.pydata.org/docs/_static/pandas.svg" width="350"></img>
@@ -93,7 +93,7 @@
 ***
 
 <a name="jupyter"></a>
-## :ghost: jupyter相关
+## 4 :ghost: jupyter相关
 
 <p align="center">
   <img src="https://jupyter.org/assets/nav_logo.svg" width="320"></img>
@@ -106,7 +106,7 @@
 ***
 
 <a name="keplergl"></a>
-## :penguin: kepler.gl相关
+## 5 :penguin: kepler.gl相关
 
 <p align="center">
   <img src="https://d1a3f4spazzrp4.cloudfront.net/kepler.gl/website/icons/kepler.gl-logo.png" width="320"></img>
@@ -118,7 +118,7 @@
 ***
 
 <a name="third"></a>
-## :wrench: 补充&勘误内容记录：
+## 6 :wrench: 补充&勘误内容记录：
 - 2019.10.28 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)补充`apply()同时返回多列数据的方法`
 - 2019.11.26 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)补充`tqdm_notebook()版apply()进度条的方法`
 - 2020.01.15 为[（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线](https://www.cnblogs.com/feffery/p/12179647.html)补充`用算术相加法拼接流水线的方法`
@@ -128,7 +128,7 @@
 ***
 
 <a name="fourth"></a>
-## :running: To-do List:
+## 7 :running: To-do List:
 - [x] **adjustText的使用**
 - [x] **基于geopandas的地理空间数据分析*****系列文章***　***已完结*** 🚩
 - [x] **在Python中妥善使用进度条**
