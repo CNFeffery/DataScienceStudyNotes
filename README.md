@@ -49,6 +49,7 @@
 - [（数据科学学习手札98）纯Python绘制满满艺术感的山脊地图](https://www.cnblogs.com/feffery/p/13977871.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD98%EF%BC%89%E7%BA%AFPython%E7%BB%98%E5%88%B6%E6%BB%A1%E6%BB%A1%E8%89%BA%E6%9C%AF%E6%84%9F%E7%9A%84%E5%B1%B1%E8%84%8A%E5%9C%B0%E5%9B%BE)
 - [（数据科学学习手札99）掌握pandas中的时序数据分组运算](https://www.cnblogs.com/feffery/p/14093478.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD99%EF%BC%89%E6%8E%8C%E6%8F%A1pandas%E4%B8%AD%E7%9A%84%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E5%88%86%E7%BB%84%E8%BF%90%E7%AE%97)
 - [（数据科学学习手札100）搞定matplotlib中的字体设置](https://www.cnblogs.com/feffery/p/14122415.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD100%EF%BC%89%E6%90%9E%E5%AE%9Amatplotlib%E4%B8%AD%E7%9A%84%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE)
+- [（数据科学学习手札101）funcy：Python中的函数式编程百宝箱](https://www.cnblogs.com/feffery/p/14208030.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/100%E6%9C%9F%E4%B9%8B%E5%90%8E/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD101%EF%BC%89funcy%EF%BC%9APython%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E7%99%BE%E5%AE%9D%E7%AE%B1)
 
 ***
 
