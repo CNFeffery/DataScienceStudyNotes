@@ -7,6 +7,7 @@
 - :books: [1 已更新博客列表](#first)
 - :card_file_box: [2 专题系列](#second)
   - :earth_asia: [2.1 基于geopandas的空间数据分析 🚩 `<完结>`](#second-geopandas)
+  - :zap: [2.1 Python+Dash快速web应用开发　🏊 `<进行中>` ](#second-dash)
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [4 jupyter相关](#jupyter)
 - :penguin: [5 kepler.gl相关](#keplergl)
@@ -78,6 +79,15 @@
     - [（数据科学学习手札89）geopandas&geoplot近期重要更新](https://www.cnblogs.com/feffery/p/13233271.html)
     - [（数据科学学习手札93）利用geopandas与PostGIS进行交互](https://www.cnblogs.com/feffery/p/13468203.html)
     - [（数据科学学习手札96）在geopandas中叠加在线地图](https://www.cnblogs.com/feffery/p/13763601.html)
+    
+<a name="second-dash"></a>
+### 2.2 :zap: Python+Dash快速web应用开发　🏊 `<进行中>` 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CNFeffery/DataScienceStudyNotes/master/100%E6%9C%9F%E4%B9%8B%E5%90%8E/Plotly_Dash_logo.png" width="550"></img>
+</p>
+
+  - [（数据科学学习手札102）Python+Dash快速web应用开发——基础概念篇](https://www.cnblogs.com/feffery/p/14258438.html)<br>
 
 ***
 
