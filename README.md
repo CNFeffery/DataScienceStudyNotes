@@ -7,7 +7,7 @@
 - :books: [1 已更新博客列表](#first)
 - :card_file_box: [2 专题系列](#second)
   - :earth_asia: [2.1 基于geopandas的空间数据分析 🚩 `<完结>`](#second-geopandas)
-  - :zap: [2.1 Python+Dash快速web应用开发　🏊 `<进行中>` ](#second-dash)
+  - :zap: [2.2 Python+Dash快速web应用开发　🏊 `<进行中>` ](#second-dash)
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [4 jupyter相关](#jupyter)
 - :penguin: [5 kepler.gl相关](#keplergl)
