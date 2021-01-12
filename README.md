@@ -84,7 +84,7 @@
 ### 2.2 :zap: Python+Dash快速web应用开发　🏊 `<进行中>` 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CNFeffery/DataScienceStudyNotes/master/100%E6%9C%9F%E4%B9%8B%E5%90%8E/Plotly_Dash_logo.png" width="550"></img>
+  <img src="https://raw.githubusercontent.com/CNFeffery/DataScienceStudyNotes/master/100%E6%9C%9F%E4%B9%8B%E5%90%8E/Plotly_Dash_logo.png" width="450"></img>
 </p>
 
   - [（数据科学学习手札102）Python+Dash快速web应用开发——基础概念篇](https://www.cnblogs.com/feffery/p/14258438.html)<br>
