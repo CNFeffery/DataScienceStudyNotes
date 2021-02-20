@@ -57,6 +57,7 @@
 - [（数据科学学习手札105）Python+Dash快速web应用开发——回调交互篇（中）](https://www.cnblogs.com/feffery/p/14349206.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/04%20%E5%9B%9E%E8%B0%83%E4%BA%A4%E4%BA%92%E7%AF%87%EF%BC%88%E4%B8%AD%EF%BC%89)
 - [（数据科学学习手札106）Python+Dash快速web应用开发——回调交互篇（下）](https://www.cnblogs.com/feffery/p/14386458.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/05%20%E5%9B%9E%E8%B0%83%E4%BA%A4%E4%BA%92%E7%AF%87%EF%BC%88%E4%B8%8B%EF%BC%89)
 - [（数据科学学习手札107）在Python中利用funct实现链式风格编程](https://www.cnblogs.com/feffery/p/14400938.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/100%E6%9C%9F%E4%B9%8B%E5%90%8E/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD107%EF%BC%89%E5%9C%A8Python%E4%B8%AD%E5%88%A9%E7%94%A8funct%E5%AE%9E%E7%8E%B0%E9%93%BE%E5%BC%8F%E9%A3%8E%E6%A0%BC%E7%BC%96%E7%A8%8B)
+- [（数据科学学习手札108）Python+Dash快速web应用开发——静态部件篇（上）](https://www.cnblogs.com/feffery/p/14416390.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/06%20%E9%9D%99%E6%80%81%E9%83%A8%E4%BB%B6%E7%AF%87%EF%BC%88%E4%B8%8A%EF%BC%89)
 ***
 
 <a name="second"></a>
@@ -96,6 +97,7 @@
   - [（数据科学学习手札104）Python+Dash快速web应用开发——回调交互篇（上）](https://www.cnblogs.com/feffery/p/14313103.html)<br>
   - [（数据科学学习手札105）Python+Dash快速web应用开发——回调交互篇（中）](https://www.cnblogs.com/feffery/p/14349206.html)<br>
   - [（数据科学学习手札106）Python+Dash快速web应用开发——回调交互篇（下）](https://www.cnblogs.com/feffery/p/14386458.html)<br>
+  - [（数据科学学习手札108）Python+Dash快速web应用开发——静态部件篇（上）](https://www.cnblogs.com/feffery/p/14416390.html)<br>
 
 ***
 
