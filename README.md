@@ -60,6 +60,7 @@
 - [（数据科学学习手札108）Python+Dash快速web应用开发——静态部件篇（上）](https://www.cnblogs.com/feffery/p/14416390.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/06%20%E9%9D%99%E6%80%81%E9%83%A8%E4%BB%B6%E7%AF%87%EF%BC%88%E4%B8%8A%EF%BC%89)
 - [（数据科学学习手札109）Python+Dash快速web应用开发——静态部件篇（中）](https://www.cnblogs.com/feffery/p/14457005.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/07%20%E9%9D%99%E6%80%81%E9%83%A8%E4%BB%B6%E7%AF%87%EF%BC%88%E4%B8%AD%EF%BC%89)
 - [（数据科学学习手札110）Python+Dash快速web应用开发——静态部件篇（下）](https://www.cnblogs.com/feffery/p/14492085.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/08%20%E9%9D%99%E6%80%81%E9%83%A8%E4%BB%B6%E7%AF%87%EF%BC%88%E4%B8%8B%EF%BC%89)
+- [（数据科学学习手札111）geopandas 0.9.0重要新特性一览](https://www.cnblogs.com/feffery/p/14519824.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/100%E6%9C%9F%E4%B9%8B%E5%90%8E/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD111%EF%BC%89geopandas%200.9.0%E9%87%8D%E8%A6%81%E6%96%B0%E7%89%B9%E6%80%A7%E4%B8%80%E8%A7%88)
 ***
 
 <a name="second"></a>
@@ -86,6 +87,7 @@
     - [（数据科学学习手札89）geopandas&geoplot近期重要更新](https://www.cnblogs.com/feffery/p/13233271.html)
     - [（数据科学学习手札93）利用geopandas与PostGIS进行交互](https://www.cnblogs.com/feffery/p/13468203.html)
     - [（数据科学学习手札96）在geopandas中叠加在线地图](https://www.cnblogs.com/feffery/p/13763601.html)
+    - [（数据科学学习手札111）geopandas 0.9.0重要新特性一览](https://www.cnblogs.com/feffery/p/14519824.html)
     
 <a name="second-dash"></a>
 ### 2.2 :zap: Python+Dash快速web应用开发　🏊 `<进行中>` 
