@@ -4,7 +4,7 @@ import dash_bootstrap_components as dbc
 app = dash.Dash(__name__)
 
 app.layout = dbc.Alert(
-    "你好，dash_bootstrap_components！"
+    "你好，dash_bootstrap_components！", color='success'
 )
 
 if __name__ == "__main__":
