@@ -188,7 +188,7 @@ def render_content(n_clicks, hero_id, hero_attributes):
                                                 'data-target': '#demo',
                                                 'data-slide-to': str(i)
                                             })
-                                            for i in range(1, hero_info['skins'].__len__() + 1)
+                                            for i in range(1, hero_info['skins'].__len__())
                                         ],
                                         className='carousel-indicators'
                                     ),
@@ -241,6 +241,7 @@ def render_content(n_clicks, hero_id, hero_attributes):
                                 ],
                                 id='demo',
                                 className='carousel slide',
+                                n_clicks=0,
                                 **{'data-ride': 'carousel'}
                             )
                         ],
