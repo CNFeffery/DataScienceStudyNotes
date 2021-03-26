@@ -168,8 +168,6 @@
 
 <a name="fourth"></a>
 ## 7 :running: To-do List:
-- [x] **matplotlib中字体相关设置**
 - [ ] **基于Dash的web应用快速开发**
-- [ ] **plotly_express最佳实践*****系列文章***
-- [ ] **folium最佳实践*****系列文章***
+- [ ] **基于pysal的地理空间数据分析**
 
