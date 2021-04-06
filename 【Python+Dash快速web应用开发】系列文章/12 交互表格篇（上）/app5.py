@@ -113,7 +113,7 @@ def check_table_name(value):
         exists_table_names = (
             pd
                 .read_sql('''SELECT tablename FROM pg_tables''', con=engine)
-                .query('~(tablename.str.startswith("pg") or tablename.str.startswith("sql_"))')
+                .query('~(tablename.str.startswith("pg") or tablename.str.startswith("sql_"))', engine='python')
         )
 
         try:
