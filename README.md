@@ -64,6 +64,7 @@
 - [（数据科学学习手札112）Python+Dash快速web应用开发——表单控件篇（上）](https://www.cnblogs.com/feffery/p/14532519.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/09%20%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%AF%87%EF%BC%88%E4%B8%8A%EF%BC%89)
 - [（数据科学学习手札113）Python+Dash快速web应用开发——表单控件篇（下）](https://www.cnblogs.com/feffery/p/14561303.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/10%20%E8%A1%A8%E5%8D%95%E6%8E%A7%E4%BB%B6%E7%AF%87%EF%BC%88%E4%B8%8B%EF%BC%89)
 - [（数据科学学习手札114）Python+Dash快速web应用开发——上传下载篇](https://www.cnblogs.com/feffery/p/14580950.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python+Dash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/11%20%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%E7%AF%87)
+- [（数据科学学习手札115）Python+Dash快速web应用开发——交互表格篇（上）](https://www.cnblogs.com/feffery/p/14616652.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/12%20%E4%BA%A4%E4%BA%92%E8%A1%A8%E6%A0%BC%E7%AF%87%EF%BC%88%E4%B8%8A%EF%BC%89)
 ***
 
 <a name="second"></a>
@@ -110,6 +111,7 @@
   - [（数据科学学习手札112）Python+Dash快速web应用开发——表单控件篇（上）](https://www.cnblogs.com/feffery/p/14532519.html)<br>
   - [（数据科学学习手札113）Python+Dash快速web应用开发——表单控件篇（下）](https://www.cnblogs.com/feffery/p/14561303.html)<br>
   - [（数据科学学习手札114）Python+Dash快速web应用开发——上传下载篇](https://www.cnblogs.com/feffery/p/14580950.html)<br>
+  - [（数据科学学习手札115）Python+Dash快速web应用开发——交互表格篇（上）](https://www.cnblogs.com/feffery/p/14616652.html)<br>
 
 ***
 
