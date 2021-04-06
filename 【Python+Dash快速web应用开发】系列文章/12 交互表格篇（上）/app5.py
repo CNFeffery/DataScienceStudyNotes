@@ -116,12 +116,16 @@ def check_table_name(value):
                 .query('~(tablename.str.startswith("pg") or tablename.str.startswith("sql_"))')
         )
 
-        if (re.findall('^[A-Za-z0-9_]+$', value)[0].__len__() == value.__len__()) \
-                and not re.findall('^\d', value) \
-                and value not in exists_table_names['tablename'].tolist():
-            return False, True
+        try:
+            print(re.findall('^[A-Za-z0-9_]+$', value))
+            if (re.findall('^[A-Za-z0-9_]+$', value)[0].__len__() == value.__len__()) \
+                    and not re.findall('^\d', value) \
+                    and value not in exists_table_names['tablename'].tolist():
+                return False, True
 
-        return True, False
+            return True, False
+        except IndexError:
+            return True, False
 
     return dash.no_update
 
