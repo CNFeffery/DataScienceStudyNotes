@@ -37,13 +37,17 @@ app.layout = html.Div(
     prevent_initial_call=True
 )
 def callback1(value):
-    return dcc.Dropdown(
-        id='output_dropdown',
-        options=[
-            {'label': i, 'value': i}
-            for i in range(int(value))
-        ]
-    )
+    try:
+
+        return dcc.Dropdown(
+            id='output_dropdown',
+            options=[
+                {'label': i, 'value': i}
+                for i in range(int(value))
+            ]
+        )
+    except ValueError:
+        return dash.no_update
 
 
 @app.callback(
