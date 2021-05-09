@@ -176,6 +176,7 @@
 - 2021.03.08 为[（数据科学学习手札103）Python+Dash快速web应用开发——页面布局篇](https://www.cnblogs.com/feffery/p/14276803.html)勘误：将`css`文件置于文中所述`assets`路径下时，无需再传入`external_stylesheets`参数，因为`dash`会自动识别并载入`assets`路径下所有文件
 - 2021.03.13 为[（数据科学学习手札103）Python+Dash快速web应用开发——页面布局篇](https://www.cnblogs.com/feffery/p/14276803.html)勘误：由于`dash_bootstrap_components`的更新，`Alert()`部件默认参数下没有背景色等样式，需添加`color`参数即可
 - 2021.04.24 为[（数据科学学习手札96）在geopandas中叠加在线地图](https://www.cnblogs.com/feffery/p/13763601.html)更新：需将`requests`降级到`2.24.0`才可在**科学上网**的同时正常使用在线地图叠加功能
+- 2021.05.09 为[（数据科学学习手札105）Python+Dash快速web应用开发——回调交互篇（中）](https://www.cnblogs.com/feffery/p/14349206.html)更新`app5`，解决了输入值不为数字时的漏洞
 
 ***
 
