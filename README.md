@@ -72,6 +72,8 @@
 - [（数据科学学习手札120）Python+Dash快速web应用开发——整合数据库](https://www.cnblogs.com/feffery/p/14748675.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python+Dash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/17%20%E6%95%B4%E5%90%88%E6%95%B0%E6%8D%AE%E5%BA%93)
 - [（数据科学学习手札121）Python+Dash快速web应用开发——项目结构篇](https://www.cnblogs.com/feffery/p/14773887.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E3%80%90Python%2BDash%E5%BF%AB%E9%80%9Fweb%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%91%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/18%20%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E7%AF%87)
 - [（数据科学学习手札122）Python+Dash快速web应用开发——内网穿透篇](https://www.cnblogs.com/feffery/p/14775704.html)
+- [（数据科学学习手札123）Python+Dash快速web应用开发——部署发布篇](https://www.cnblogs.com/feffery/p/14826195.html)
+- [（数据科学学习手札124）pandas 1.3版本主要更新内容一览](https://www.cnblogs.com/feffery/p/14993399.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/100%E6%9C%9F%E4%B9%8B%E5%90%8E/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD124%EF%BC%89pandas%201.3%E7%89%88%E6%9C%AC%E4%B8%BB%E8%A6%81%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9%E4%B8%80%E8%A7%88)
 ***
 
 <a name="second"></a>
@@ -126,6 +128,7 @@
   - [（数据科学学习手札120）Python+Dash快速web应用开发——整合数据库](https://www.cnblogs.com/feffery/p/14748675.html)<br>
   - [（数据科学学习手札121）Python+Dash快速web应用开发——项目结构篇](https://www.cnblogs.com/feffery/p/14773887.html)<br>
   - [（数据科学学习手札122）Python+Dash快速web应用开发——内网穿透篇](https://www.cnblogs.com/feffery/p/14775704.html)<br>
+  - [（数据科学学习手札123）Python+Dash快速web应用开发——部署发布篇](https://www.cnblogs.com/feffery/p/14826195.html)<br>
 
 ***
 
@@ -143,6 +146,7 @@
 - [（数据科学学习手札92）利用query()与eval()优化pandas代码](https://www.cnblogs.com/feffery/p/13440148.html)<br>
 - [（数据科学学习手札97）掌握pandas中的transform](https://www.cnblogs.com/feffery/p/13816362.html)<br>
 - [（数据科学学习手札99）掌握pandas中的时序数据分组运算](https://www.cnblogs.com/feffery/p/14093478.html)<br>
+- [（数据科学学习手札124）pandas 1.3版本主要更新内容一览](https://www.cnblogs.com/feffery/p/14993399.html)<br>
 
 ***
 
@@ -188,6 +192,5 @@
 
 <a name="fourth"></a>
 ## 7 :running: To-do List:
-- [ ] **基于Dash的web应用快速开发**
 - [ ] **基于pysal的地理空间数据分析**
 
