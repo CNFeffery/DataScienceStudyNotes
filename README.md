@@ -29,7 +29,7 @@ git clone https://github.com/CNFeffery/DataScienceStudyNotes.git --depth=1
 - [（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线](https://www.cnblogs.com/feffery/p/12179647.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线)
 - [（数据科学学习手札73）盘点pandas 1.0.0中的新特性](https://www.cnblogs.com/feffery/p/12214635.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札73）盘点pandas 1.0.0中的新特性)
 - [（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇](https://www.cnblogs.com/feffery/p/11898190.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇)
-- [（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇](./历史文章附件列表/（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇)
+- [（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇]　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札75）基于geopandas的空间数据分析——坐标参考系篇)
 - [（数据科学学习手札76）基于Python的拐点检测——以新冠肺炎疫情数据为例](https://www.cnblogs.com/feffery/p/12325741.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札76）基于Python的拐点检测——以新冠肺炎疫情数据为例)
 - [（数据科学学习手札77）基于geopandas的空间数据分析——文件IO](https://www.cnblogs.com/feffery/p/12301966.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札77）基于geopandas的空间数据分析——文件IO)
 - [（数据科学学习手札78）基于geopandas的空间数据分析——基础可视化](https://www.cnblogs.com/feffery/p/12361421.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札78）基于geopandas的空间数据分析——基础可视化)
