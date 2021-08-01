@@ -3,7 +3,7 @@
 <br>:email: 交流学习请联系邮箱：fefferypzy@gmail.com
 <br>:rainbow: 博客地址：https://www.cnblogs.com/feffery/
 
-## :inbox_tray: 推荐clone方式：
+> :inbox_tray: 推荐clone方式：
 ```bash
 git clone https://github.com/CNFeffery/DataScienceStudyNotes.git --depth=1
 ```
@@ -108,6 +108,7 @@ git clone https://github.com/CNFeffery/DataScienceStudyNotes.git --depth=1
     - [（数据科学学习手札96）在geopandas中叠加在线地图](https://www.cnblogs.com/feffery/p/13763601.html)
     - [（数据科学学习手札111）geopandas 0.9.0重要新特性一览](https://www.cnblogs.com/feffery/p/14519824.html)
     
+
 <a name="second-dash"></a>
 ### 2.2 :zap: Python+Dash快速web应用开发　🚩 `<完结>` 
 
