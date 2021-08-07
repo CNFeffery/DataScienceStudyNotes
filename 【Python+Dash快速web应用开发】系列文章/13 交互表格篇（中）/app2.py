@@ -26,12 +26,12 @@ app.layout = dbc.Container(
                 page_action='custom',
                 page_current=0,
                 style_header={
-                    'font-family': 'Times New Romer',
+                    'font-family': 'Times New Roman',
                     'font-weight': 'bold',
                     'text-align': 'center'
                 },
                 style_data={
-                    'font-family': 'Times New Romer',
+                    'font-family': 'Times New Roman',
                     'text-align': 'center'
                 }
             )

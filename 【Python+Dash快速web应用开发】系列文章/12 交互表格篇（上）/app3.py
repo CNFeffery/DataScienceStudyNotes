@@ -24,7 +24,7 @@ app.layout = html.Div(
                 },
                 style_cell={
                     'background-color': '#fff9c4',
-                    'font-family': 'Times New Romer',
+                    'font-family': 'Times New Roman',
                     'text-align': 'center'
                 }
             ),
@@ -38,13 +38,13 @@ app.layout = html.Div(
                 },
                 style_header={
                     'background-color': '#b3e5fc',
-                    'font-family': 'Times New Romer',
+                    'font-family': 'Times New Roman',
                     'font-weight': 'bold',
                     'font-size': '17px',
                     'text-align': 'left'
                 },
                 style_data={
-                    'font-family': 'Times New Romer',
+                    'font-family': 'Times New Roman',
                     'text-align': 'left'
                 }
             )

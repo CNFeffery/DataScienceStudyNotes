@@ -23,7 +23,7 @@ app.layout = html.Div(
                     'height': '500px'
                 },
                 style_cell={
-                    'font-family': 'Times New Romer',
+                    'font-family': 'Times New Roman',
                     'text-align': 'center'
                 },
                 style_header_conditional=[

@@ -25,12 +25,12 @@ app.layout = dbc.Container(
                 'overflow-y': 'auto'
             },
             style_header={
-                'font-family': 'Times New Romer',
+                'font-family': 'Times New Roman',
                 'font-weight': 'bold',
                 'text-align': 'center'
             },
             style_data={
-                'font-family': 'Times New Romer',
+                'font-family': 'Times New Roman',
                 'text-align': 'center'
             },
             filter_action="native",

@@ -20,12 +20,12 @@ app.layout = dbc.Container(
             ],
             page_size=15,  # 设置单页显示15行记录行数
             style_header={
-                'font-family': 'Times New Romer',
+                'font-family': 'Times New Roman',
                 'font-weight': 'bold',
                 'text-align': 'center'
             },
             style_data={
-                'font-family': 'Times New Romer',
+                'font-family': 'Times New Roman',
                 'text-align': 'center'
             }
         )

@@ -72,7 +72,7 @@ app.layout = html.Div(
                         virtualization=True,
                         style_as_list_view=True,
                         style_cell={
-                            'font-family': 'Times New Romer',
+                            'font-family': 'Times New Roman',
                             'text-align': 'center'
                         },
                         style_header={
