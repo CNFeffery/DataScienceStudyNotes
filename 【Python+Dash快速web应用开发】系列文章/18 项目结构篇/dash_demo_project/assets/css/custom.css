@@ -1,0 +1,11 @@
+.nav-link.active {
+    background-color: #4fc3f7!important;
+}
+
+#index-desc > * {
+    font-size: 26px;
+}
+
+.table td, .table th {
+    text-align: center;
+}
