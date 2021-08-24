@@ -82,6 +82,7 @@ git clone https://github.com/CNFeffery/DataScienceStudyNotes.git --depth=1
 - [（数据科学学习手札124）pandas 1.3版本主要更新内容一览](https://www.cnblogs.com/feffery/p/14993399.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E5%8E%86%E5%8F%B2%E6%96%87%E7%AB%A0%E9%99%84%E4%BB%B6%E5%88%97%E8%A1%A8/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD124%EF%BC%89pandas%201.3%E7%89%88%E6%9C%AC%E4%B8%BB%E8%A6%81%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9%E4%B8%80%E8%A7%88)
 - [（数据科学学习手札125）在Python中操纵json数据的最佳方式](https://www.cnblogs.com/feffery/p/15087235.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札125）在Python中操纵json数据的最佳方式)
 - [（数据科学学习手札126）Python中JSON结构数据的高效增删改操作](https://www.cnblogs.com/feffery/p/15115785.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札126）Python中JSON结构数据的高效增删改操作)
+- [（数据科学学习手札127）在Python中使用icecream实现高效debug](https://www.cnblogs.com/feffery/p/15181212.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札127）在Python中使用icecream实现高效debug)
 ***
 
 <a name="second"></a>
