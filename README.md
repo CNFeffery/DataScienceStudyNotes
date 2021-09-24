@@ -83,6 +83,7 @@ git clone https://github.com/CNFeffery/DataScienceStudyNotes.git --depth=1
 - [（数据科学学习手札125）在Python中操纵json数据的最佳方式](https://www.cnblogs.com/feffery/p/15087235.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札125）在Python中操纵json数据的最佳方式)
 - [（数据科学学习手札126）Python中JSON结构数据的高效增删改操作](https://www.cnblogs.com/feffery/p/15115785.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札126）Python中JSON结构数据的高效增删改操作)
 - [（数据科学学习手札127）在Python中使用icecream实现高效debug](https://www.cnblogs.com/feffery/p/15181212.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札127）在Python中使用icecream实现高效debug)
+- [（数据科学学习手札128）在matplotlib中添加富文本的最佳方式](https://www.cnblogs.com/feffery/p/15331473.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札128）在matplotlib中添加富文本的最佳方式)
 ***
 
 <a name="second"></a>
