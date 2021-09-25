@@ -3,9 +3,9 @@
 <br>:email: 交流学习请联系邮箱：fefferypzy@gmail.com
 <br>:rainbow: 博客地址：https://www.cnblogs.com/feffery/
 
-> :inbox_tray: 推荐高效clone方式：
+> :inbox_tray: 国内镜像加速clone方式：
 ```bash
-git clone https://github.com/CNFeffery/DataScienceStudyNotes.git --depth=1
+git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 ```
 
 # :carousel_horse: 目录
