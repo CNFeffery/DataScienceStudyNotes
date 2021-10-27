@@ -84,6 +84,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札126）Python中JSON结构数据的高效增删改操作](https://www.cnblogs.com/feffery/p/15115785.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札126）Python中JSON结构数据的高效增删改操作)
 - [（数据科学学习手札127）在Python中使用icecream实现高效debug](https://www.cnblogs.com/feffery/p/15181212.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札127）在Python中使用icecream实现高效debug)
 - [（数据科学学习手札128）在matplotlib中添加富文本的最佳方式](https://www.cnblogs.com/feffery/p/15331473.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札128）在matplotlib中添加富文本的最佳方式)
+- [（数据科学学习手札129）geopandas 0.10版本重要新特性一览](https://www.cnblogs.com/feffery/p/15472342.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札129）geopandas 0.10版本重要新特性一览)
 ***
 
 <a name="second"></a>
@@ -111,6 +112,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
     - [（数据科学学习手札93）利用geopandas与PostGIS进行交互](https://www.cnblogs.com/feffery/p/13468203.html)
     - [（数据科学学习手札96）在geopandas中叠加在线地图](https://www.cnblogs.com/feffery/p/13763601.html)
     - [（数据科学学习手札111）geopandas 0.9.0重要新特性一览](https://www.cnblogs.com/feffery/p/14519824.html)
+    - [（数据科学学习手札129）geopandas 0.10版本重要新特性一览](https://www.cnblogs.com/feffery/p/15472342.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札129）geopandas 0.10版本重要新特性一览)
     
 
 <a name="second-dash"></a>
