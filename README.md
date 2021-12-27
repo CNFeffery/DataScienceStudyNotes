@@ -88,6 +88,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札130）利用geopandas快捷绘制在线地图](https://www.cnblogs.com/feffery/p/15530464.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札130）利用geopandas快捷绘制在线地图)
 - [（数据科学学习手札131）pandas中的常用字符串处理方法总结](https://www.cnblogs.com/feffery/p/15584726.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札131）pandas中的常用字符串处理方法总结)
 - [（数据科学学习手札132）Python+Fabric实现远程服务器连接](https://www.cnblogs.com/feffery/p/15646508.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札132）Python+Fabric实现远程服务器连接)
+- [（数据科学学习手札133）利用geopandas绘制拓扑着色地图](https://www.cnblogs.com/feffery/p/15738273.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札133）利用geopandas绘制拓扑着色地图)
 ***
 
 <a name="second"></a>
@@ -118,6 +119,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
     - [（数据科学学习手札111）geopandas 0.9.0重要新特性一览](https://www.cnblogs.com/feffery/p/14519824.html)
     - [（数据科学学习手札129）geopandas 0.10版本重要新特性一览](https://www.cnblogs.com/feffery/p/15472342.html)
     - [（数据科学学习手札130）利用geopandas快捷绘制在线地图](https://www.cnblogs.com/feffery/p/15530464.html)
+    - [（数据科学学习手札133）利用geopandas绘制拓扑着色地图](https://www.cnblogs.com/feffery/p/15738273.html)
     
 
 <a name="second-dash"></a>
