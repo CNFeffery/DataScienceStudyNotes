@@ -176,7 +176,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 ## 4 :ghost: jupyter相关
 
 <p align="center">
-  <img src="https://jupyter.org/assets/nav_logo.svg" width="320"></img>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="220"></img>
 </p>
 
 - [（数据科学学习手札81）conda+jupyter玩转数据科学环境搭建](https://www.cnblogs.com/feffery/p/12609118.html)<br>
