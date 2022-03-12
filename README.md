@@ -89,6 +89,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札131）pandas中的常用字符串处理方法总结](https://www.cnblogs.com/feffery/p/15584726.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札131）pandas中的常用字符串处理方法总结)
 - [（数据科学学习手札132）Python+Fabric实现远程服务器连接](https://www.cnblogs.com/feffery/p/15646508.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札132）Python+Fabric实现远程服务器连接)
 - [（数据科学学习手札133）利用geopandas绘制拓扑着色地图](https://www.cnblogs.com/feffery/p/15738273.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札133）利用geopandas绘制拓扑着色地图)
+- [（数据科学学习手札134）pyjanitor：为pandas补充更多功能](https://www.cnblogs.com/feffery/p/15998079.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札134）pyjanitor：为pandas补充更多功能)
 ***
 
 <a name="second"></a>
@@ -154,6 +155,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 ***
 
 <a name="pandas"></a>
+
 ## 3 :man_astronaut: pandas相关
 
 <p align="center">
@@ -169,10 +171,12 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札99）掌握pandas中的时序数据分组运算](https://www.cnblogs.com/feffery/p/14093478.html)<br>
 - [（数据科学学习手札124）pandas 1.3版本主要更新内容一览](https://www.cnblogs.com/feffery/p/14993399.html)<br>
 - [（数据科学学习手札131）pandas中的常用字符串处理方法总结](https://www.cnblogs.com/feffery/p/15584726.html)
+- [（数据科学学习手札134）pyjanitor：为pandas补充更多功能](https://www.cnblogs.com/feffery/p/15998079.html)
 
 ***
 
 <a name="jupyter"></a>
+
 ## 4 :ghost: jupyter相关
 
 <p align="center">
