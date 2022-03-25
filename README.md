@@ -90,6 +90,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札132）Python+Fabric实现远程服务器连接](https://www.cnblogs.com/feffery/p/15646508.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札132）Python+Fabric实现远程服务器连接)
 - [（数据科学学习手札133）利用geopandas绘制拓扑着色地图](https://www.cnblogs.com/feffery/p/15738273.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札133）利用geopandas绘制拓扑着色地图)
 - [（数据科学学习手札134）pyjanitor：为pandas补充更多功能](https://www.cnblogs.com/feffery/p/15998079.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札134）pyjanitor：为pandas补充更多功能)
+- [（数据科学学习手札135）tenacity：Python中最强大的错误重试库](https://www.cnblogs.com/feffery/p/16056079.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札135）tenacity：Python中最强大的错误重试库)
 ***
 
 <a name="second"></a>
