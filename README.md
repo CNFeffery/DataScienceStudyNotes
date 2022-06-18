@@ -93,6 +93,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札135）tenacity：Python中最强大的错误重试库](https://www.cnblogs.com/feffery/p/16056079.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札135）tenacity：Python中最强大的错误重试库)
 - [（数据科学学习手札136）Python中基于joblib实现极简并行计算加速](https://www.cnblogs.com/feffery/p/16271159.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札136）Python中基于joblib实现极简并行计算加速)
 - [（数据科学学习手札137）orjson：Python中最好用的json库](https://www.cnblogs.com/feffery/p/16344712.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札137）orjson：Python中最好用的json库)
+- [（数据科学学习手札138）使用sklearnex大幅加速scikit-learn运算](https://www.cnblogs.com/feffery/p/16387854.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札138）使用sklearnex大幅加速scikit-learn运算)
 ***
 
 <a name="second"></a>
