@@ -94,6 +94,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札136）Python中基于joblib实现极简并行计算加速](https://www.cnblogs.com/feffery/p/16271159.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札136）Python中基于joblib实现极简并行计算加速)
 - [（数据科学学习手札137）orjson：Python中最好用的json库](https://www.cnblogs.com/feffery/p/16344712.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札137）orjson：Python中最好用的json库)
 - [（数据科学学习手札138）使用sklearnex大幅加速scikit-learn运算](https://www.cnblogs.com/feffery/p/16387854.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札138）使用sklearnex大幅加速scikit-learn运算)
+- [（数据科学学习手札139）geopandas 0.11版本重要新特性一览](https://www.cnblogs.com/feffery/p/16410796.html)
 ***
 
 <a name="second"></a>
@@ -125,6 +126,7 @@ git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
     - [（数据科学学习手札129）geopandas 0.10版本重要新特性一览](https://www.cnblogs.com/feffery/p/15472342.html)
     - [（数据科学学习手札130）利用geopandas快捷绘制在线地图](https://www.cnblogs.com/feffery/p/15530464.html)
     - [（数据科学学习手札133）利用geopandas绘制拓扑着色地图](https://www.cnblogs.com/feffery/p/15738273.html)
+    - [（数据科学学习手札139）geopandas 0.11版本重要新特性一览](https://www.cnblogs.com/feffery/p/16410796.html)
     
 
 <a name="second-dash"></a>
