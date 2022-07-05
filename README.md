@@ -5,7 +5,7 @@
 
 > :inbox_tray: 国内镜像加速clone方式：
 ```bash
-git clone https://hub.fastgit.org/CNFeffery/DataScienceStudyNotes.git
+git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudyNotes.git
 ```
 
 # :carousel_horse: 目录
