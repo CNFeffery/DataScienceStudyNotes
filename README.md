@@ -97,6 +97,7 @@ git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudy
 - [（数据科学学习手札139）geopandas 0.11版本重要新特性一览](https://www.cnblogs.com/feffery/p/16410796.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E5%8E%86%E5%8F%B2%E6%96%87%E7%AB%A0%E9%99%84%E4%BB%B6%E5%88%97%E8%A1%A8/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD139%EF%BC%89geopandas%200.11%E7%89%88%E6%9C%AC%E9%87%8D%E8%A6%81%E6%96%B0%E7%89%B9%E6%80%A7%E4%B8%80%E8%A7%88)
 - [（数据科学学习手札140）详解geopandas中基于pyogrio的矢量读写引擎](https://www.cnblogs.com/feffery/p/16459024.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札140）详解geopandas中基于pyogrio的矢量读写引擎)
 - [（数据科学学习手札141）利用Learn Git Branching轻松学习git常用操作](https://www.cnblogs.com/feffery/p/16689961.html)
+- [（数据科学学习手札142）dill：Python中增强版的pickle](https://www.cnblogs.com/feffery/p/16703398.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札142）dill：Python中增强版的pickle)
 ***
 
 <a name="second"></a>
