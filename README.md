@@ -98,6 +98,7 @@ git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudy
 - [（数据科学学习手札140）详解geopandas中基于pyogrio的矢量读写引擎](https://www.cnblogs.com/feffery/p/16459024.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札140）详解geopandas中基于pyogrio的矢量读写引擎)
 - [（数据科学学习手札141）利用Learn Git Branching轻松学习git常用操作](https://www.cnblogs.com/feffery/p/16689961.html)
 - [（数据科学学习手札142）dill：Python中增强版的pickle](https://www.cnblogs.com/feffery/p/16703398.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札142）dill：Python中增强版的pickle)
+- [（数据科学学习手札143）为geopandas添加gdb文件写出功能](https://www.cnblogs.com/feffery/p/16711477.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札143）为geopandas添加gdb文件写出功能)
 ***
 
 <a name="second"></a>
@@ -131,6 +132,7 @@ git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudy
     - [（数据科学学习手札133）利用geopandas绘制拓扑着色地图](https://www.cnblogs.com/feffery/p/15738273.html)
     - [（数据科学学习手札139）geopandas 0.11版本重要新特性一览](https://www.cnblogs.com/feffery/p/16410796.html)
     - [（数据科学学习手札140）详解geopandas中基于pyogrio的矢量读写引擎](https://www.cnblogs.com/feffery/p/16459024.html)
+    - [（数据科学学习手札143）为geopandas添加gdb文件写出功能](https://www.cnblogs.com/feffery/p/16711477.html)
     
 
 <a name="second-dash"></a>
