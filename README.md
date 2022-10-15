@@ -99,6 +99,7 @@ git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudy
 - [（数据科学学习手札141）利用Learn Git Branching轻松学习git常用操作](https://www.cnblogs.com/feffery/p/16689961.html)
 - [（数据科学学习手札142）dill：Python中增强版的pickle](https://www.cnblogs.com/feffery/p/16703398.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札142）dill：Python中增强版的pickle)
 - [（数据科学学习手札143）为geopandas添加gdb文件写出功能](https://www.cnblogs.com/feffery/p/16711477.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札143）为geopandas添加gdb文件写出功能)
+- [（数据科学学习手札144）使用管道操作符高效书写Python代码](https://www.cnblogs.com/feffery/p/16794858.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札144）使用管道操作符高效书写Python代码)
 ***
 
 <a name="second"></a>
