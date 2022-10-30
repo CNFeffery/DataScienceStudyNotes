@@ -11,8 +11,8 @@ git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudy
 # :carousel_horse: 目录
 - :books: [1 已更新博客列表](#first)
 - :card_file_box: [2 专题系列](#second)
-  - :earth_asia: [2.1 基于geopandas的空间数据分析  🚩 `<完结>`](#second-geopandas)
-  - :zap: [2.2 Python+Dash快速web应用开发　🚩 `<完结>` ](#second-dash)
+  - :earth_asia: [2.1 基于geopandas的空间数据分析  🚩 `<主线完结>`](#second-geopandas)
+  - :zap: [2.2 Python+Dash快速web应用开发  🚩 `<完结>` ](#second-dash)
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [4 jupyter相关](#jupyter)
 - :penguin: [5 kepler.gl相关](#keplergl)
@@ -109,8 +109,8 @@ git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudy
 ## 2 :card_file_box: 专题系列：
 
 <a name="second-geopandas"></a>
-### 2.1 :earth_asia: 基于geopandas的空间数据分析　🚩 `<完结>` 
-- [课程附件百度云下载地址](https://pan.baidu.com/s/1ZzbxAm-0-udUaLlhM_KP7w)（提取码：1syu）：
+### 2.1 :earth_asia: 基于geopandas的空间数据分析　🚩 `<主线完结>` 
+- [课程附件百度云下载地址](https://pan.baidu.com/s/1czvOSQLoxnwbW-sACuASYQ)（提取码：6cjq）：
 
 <p align="center">
   <img src="https://geopandas.readthedocs.io/en/latest/_static/geopandas_logo_web.svg" width="500"></img>
@@ -231,6 +231,7 @@ git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudy
 - 2021.05.09 为[（数据科学学习手札105）Python+Dash快速web应用开发——回调交互篇（中）](https://www.cnblogs.com/feffery/p/14349206.html)更新`app5`，解决了输入值不为数字时的漏洞
 - 2021.08.07 为**Python+Dash快速web应用开发**系列文章*交互表格篇*三篇修改`Times New Romer`为`Times New Roman`
 - 2021.12.29 为[（数据科学学习手札129）geopandas 0.10版本重要新特性一览](https://www.cnblogs.com/feffery/p/15472342.html)勘误：该文章对应`geopandas`版本（0.10.2）中的`sjoin_nearest()`，只会为左表匹配`max_distance`范围内，右表中距离其最近的单条或多条（存在多条右表记录距离相同时）记录，并不能匹配到`max_distance`范围内的所有右表记录值
+- 2022.10.30 为[（数据科学学习手札84）基于geopandas的空间数据分析——空间计算篇（上）](https://www.cnblogs.com/feffery/p/12909284.html)勘误：更新了基于缓冲区方法正确修复自交叉面要素拓扑非法问题的技巧示例
 
 ***
 
