@@ -106,6 +106,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札144）使用管道操作符高效书写Python代码](https://www.cnblogs.com/feffery/p/16794858.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札144）使用管道操作符高效书写Python代码)
 - [（数据科学学习手札145）在Python中利用yarl轻松操作url](https://www.cnblogs.com/feffery/p/16817124.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札145）在Python中利用yarl轻松操作url)
 - [（数据科学学习手札146）geopandas中拓扑非法问题的发现、诊断与修复](https://www.cnblogs.com/feffery/p/16841979.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札146）geopandas中拓扑非法问题的发现、诊断与修复)
+- [（数据科学学习手札147）Python GIS利器shapely全新2.0版本一览](https://www.cnblogs.com/feffery/p/16989398.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札147）Python GIS利器shapely全新2.0版本一览)
 ***
 
 <a name="second"></a>
@@ -141,6 +142,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
     - [（数据科学学习手札140）详解geopandas中基于pyogrio的矢量读写引擎](https://www.cnblogs.com/feffery/p/16459024.html)
     - [（数据科学学习手札143）为geopandas添加gdb文件写出功能](https://www.cnblogs.com/feffery/p/16711477.html)
     - [（数据科学学习手札146）geopandas中拓扑非法问题的发现、诊断与修复](https://www.cnblogs.com/feffery/p/16841979.html)
+    - [（数据科学学习手札147）Python GIS利器shapely全新2.0版本一览](https://www.cnblogs.com/feffery/p/16989398.html)
     
 
 <a name="second-dash"></a>
