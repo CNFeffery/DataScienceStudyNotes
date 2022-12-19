@@ -30,7 +30,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 ## 1 :books: 已更新博客列表：
 - [（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html) 　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg)
 - [（数据科学学习手札70）面向数据科学的Python多进程简介及应用](https://www.cnblogs.com/feffery/p/11621076.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札70）面向数据科学的Python多进程简介及应用)
-- [（数据科学学习手札71）利用Python绘制词云图](https://www.cnblogs.com/feffery/p/11842798.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札71）利用Python绘制词云图)
+- [（数据科学学习手札71）利用Python绘制词云图](https://www.cnblogs.com/feffery/p/11842798.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札71）在Python中制作个性化词云图)
 - [（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线](https://www.cnblogs.com/feffery/p/12179647.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线)
 - [（数据科学学习手札73）盘点pandas 1.0.0中的新特性](https://www.cnblogs.com/feffery/p/12214635.html)　:airplane:[仓库路径](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/%E5%8E%86%E5%8F%B2%E6%96%87%E7%AB%A0%E9%99%84%E4%BB%B6%E5%88%97%E8%A1%A8/%EF%BC%88%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AD%A6%E4%B9%A0%E6%89%8B%E6%9C%AD73%EF%BC%89%E7%9B%98%E7%82%B9pandas%201.0.0%E4%B8%AD%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7)
 - [（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇](https://www.cnblogs.com/feffery/p/11898190.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇)
