@@ -11,7 +11,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 # :carousel_horse: 目录
 - :books: [1 已更新博客列表](#first)
 - :card_file_box: [2 专题系列](#second)
-  - :earth_asia: [2.1 基于geopandas的空间数据分析  🚩 `<主线完结>`](#second-geopandas)
+  - :earth_asia: [2.1 基于geopandas的空间数据分析  🏊 `<持续更新中>`](#second-geopandas)
   - :zap: [2.2 Python+Dash快速web应用开发  🚩 `<完结>` ](#second-dash)
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [4 jupyter相关](#jupyter)
@@ -112,7 +112,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 ## 2 :card_file_box: 专题系列：
 
 <a name="second-geopandas"></a>
-### 2.1 :earth_asia: 基于geopandas的空间数据分析　🚩 `<主线完结>` 
+### 2.1 :earth_asia: 基于geopandas的空间数据分析　🏊 `<持续更新中>` 
 - [课程附件百度云下载地址](https://pan.baidu.com/s/1czvOSQLoxnwbW-sACuASYQ)（提取码：6cjq）：
 
 <p align="center">
