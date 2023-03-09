@@ -5,10 +5,6 @@
 
 > :inbox_tray: 国内镜像加速clone方式：
 ```bash
-git clone https://github.91chi.fun/https://github.com/CNFeffery/DataScienceStudyNotes.git
-```
-或
-```bash
 git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceStudyNotes.git
 ```
 
