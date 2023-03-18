@@ -105,6 +105,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札147）Python GIS利器shapely全新2.0版本一览](https://www.cnblogs.com/feffery/p/16989398.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札147）Python%20GIS利器shapely全新2.0版本一览)
 - [（数据科学学习手札148）geopandas直接支持gdb文件写出与追加](https://www.cnblogs.com/feffery/p/17025278.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札148）geopandas直接支持gdb文件写出与追加)
 - [（数据科学学习手札149）用matplotlib轻松绘制漂亮的表格](https://www.cnblogs.com/feffery/p/17086814.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札149）用matplotlib轻松绘制漂亮的表格)
+- [（数据科学学习手札150）基于dask对geopandas进行并行加速](https://www.cnblogs.com/feffery/p/17231708.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札150）基于dask对geopandas进行并行加速)
 ***
 
 <a name="second"></a>
@@ -142,6 +143,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
     - [（数据科学学习手札146）geopandas中拓扑非法问题的发现、诊断与修复](https://www.cnblogs.com/feffery/p/16841979.html)
     - [（数据科学学习手札147）Python GIS利器shapely全新2.0版本一览](https://www.cnblogs.com/feffery/p/16989398.html)
     - [（数据科学学习手札148）geopandas直接支持gdb文件写出与追加](https://www.cnblogs.com/feffery/p/17025278.html)
+    - [（数据科学学习手札150）基于dask对geopandas进行并行加速](https://www.cnblogs.com/feffery/p/17231708.html)
     
 
 <a name="second-dash"></a>
