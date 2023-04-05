@@ -106,6 +106,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札148）geopandas直接支持gdb文件写出与追加](https://www.cnblogs.com/feffery/p/17025278.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札148）geopandas直接支持gdb文件写出与追加)
 - [（数据科学学习手札149）用matplotlib轻松绘制漂亮的表格](https://www.cnblogs.com/feffery/p/17086814.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札149）用matplotlib轻松绘制漂亮的表格)
 - [（数据科学学习手札150）基于dask对geopandas进行并行加速](https://www.cnblogs.com/feffery/p/17231708.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札150）基于dask对geopandas进行并行加速)
+- [（数据科学学习手札151）速通pandas2.0新版本干货内容](https://www.cnblogs.com/feffery/p/17290646.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札151）速通pandas2.0新版本干货内容)
 ***
 
 <a name="second"></a>
@@ -195,6 +196,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札124）pandas 1.3版本主要更新内容一览](https://www.cnblogs.com/feffery/p/14993399.html)<br>
 - [（数据科学学习手札131）pandas中的常用字符串处理方法总结](https://www.cnblogs.com/feffery/p/15584726.html)
 - [（数据科学学习手札134）pyjanitor：为pandas补充更多功能](https://www.cnblogs.com/feffery/p/15998079.html)
+- [（数据科学学习手札151）速通pandas2.0新版本干货内容](https://www.cnblogs.com/feffery/p/17290646.html)
 
 ***
 
