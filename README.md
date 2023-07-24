@@ -108,6 +108,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札150）基于dask对geopandas进行并行加速](https://www.cnblogs.com/feffery/p/17231708.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札150）基于dask对geopandas进行并行加速)
 - [（数据科学学习手札151）速通pandas2.0新版本干货内容](https://www.cnblogs.com/feffery/p/17290646.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札151）速通pandas2.0新版本干货内容)
 - [（数据科学学习手札152）geopandas0.13版本更新内容一览](https://www.cnblogs.com/feffery/p/17379888.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札152）geopandas0.13版本更新内容一览)
+- [（数据科学学习手札153）基于martin的高性能矢量切片地图服务构建](https://www.cnblogs.com/feffery/p/17578026.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札153）基于martin的高性能矢量切片地图服务构建)
 ***
 
 <a name="second"></a>
@@ -147,6 +148,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
     - [（数据科学学习手札148）geopandas直接支持gdb文件写出与追加](https://www.cnblogs.com/feffery/p/17025278.html)
     - [（数据科学学习手札150）基于dask对geopandas进行并行加速](https://www.cnblogs.com/feffery/p/17231708.html)
     - [（数据科学学习手札152）geopandas0.13版本更新内容一览](https://www.cnblogs.com/feffery/p/17379888.html)
+    - [（数据科学学习手札153）基于martin的高性能矢量切片地图服务构建](https://www.cnblogs.com/feffery/p/17578026.html)
     
 
 <a name="second-dash"></a>
