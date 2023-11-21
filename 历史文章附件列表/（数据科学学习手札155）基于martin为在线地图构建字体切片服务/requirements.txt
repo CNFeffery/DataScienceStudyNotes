@@ -1,0 +1,4 @@
+dash==2.14.1
+feffery_antd_components==0.2.11
+feffery_maplibre==0.0.1b9
+numpy==1.25.2

@@ -110,6 +110,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札152）geopandas0.13版本更新内容一览](https://www.cnblogs.com/feffery/p/17379888.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札152）geopandas0.13版本更新内容一览)
 - [（数据科学学习手札153）基于martin的高性能矢量切片地图服务构建](https://www.cnblogs.com/feffery/p/17581158.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札153）基于martin的高性能矢量切片地图服务构建)
 - [（数据科学学习手札154）geopandas0.14版本新特性一览](https://www.cnblogs.com/feffery/p/17709443.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札154）geopandas0.14版本新特性一览)
+- [（数据科学学习手札155）基于martin为在线地图构建字体切片服务](https://www.cnblogs.com/feffery/p/17846899.html)　:airplane:[仓库路径](./历史文章附件列表/（数据科学学习手札155）基于martin为在线地图构建字体切片服务)
 ***
 
 <a name="second"></a>
