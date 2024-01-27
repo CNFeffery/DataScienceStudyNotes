@@ -16,8 +16,6 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [4 jupyter相关](#jupyter)
 - :penguin: [5 kepler.gl相关](#keplergl)
-- :wrench: [6 补充勘误记录（最近更新：2021.12.29）](#third)
-- :running: [7 To-do List](#fourth)
 
 ***
 
@@ -154,7 +152,8 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
     - [（数据科学学习手札152）geopandas0.13版本更新内容一览](https://www.cnblogs.com/feffery/p/17379888.html)
     - [（数据科学学习手札153）基于martin的高性能矢量切片地图服务构建](https://www.cnblogs.com/feffery/p/17581158.html)
     - [（数据科学学习手札154）geopandas0.14版本新特性一览](https://www.cnblogs.com/feffery/p/17709443.html)
-    
+
+​    
 
 <a name="second-dash"></a>
 
@@ -237,26 +236,5 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 
 ***
 
-<a name="third"></a>
-## 6 :wrench: 补充&勘误记录：
-- 2019.10.28 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)补充`apply()同时返回多列数据的方法`
-- 2019.11.26 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)补充`tqdm_notebook()版apply()进度条的方法`
-- 2020.01.15 为[（数据科学学习手札72）用pdpipe搭建pandas数据分析流水线](https://www.cnblogs.com/feffery/p/12179647.html)补充`用算术相加法拼接流水线的方法`
-- 2020.08.27 为[（数据科学学习手札94）QGIS+Conda+jupyter玩转Python GIS](https://www.cnblogs.com/feffery/p/13558608.html)勘误：1.`PyQgis`中的**渔网创建工具**无`INPUT`参数；2.现阶段`geopandas`与`PyQgis`之间并无互相**兼容相通**的设定，因此无法将`GeoDataFrame`类型的变量作为`INPUT`参数传入`PyQgis`算法执行过程中
-- 2020.09.28 为[（数据科学学习手札69）详解pandas中的map、apply、applymap、groupby、agg](https://www.cnblogs.com/feffery/p/11468762.html)更新：由于`numpy`的版本更新，故将**3.1**章节下`结合apply()`中的`df['name'][np.argmax(df['count'])]`更新为`df['name'][df['count'].idxmax()]`
-- 2021.01.12 为[（数据科学学习手札74）基于geopandas的空间数据分析——数据结构篇](https://www.cnblogs.com/feffery/p/11898190.html)即我们的`geopandas`系列教程第一篇开头增加**最新稳定安装geopandas的快捷命令**
-- 2021.03.08 为[（数据科学学习手札103）Python+Dash快速web应用开发——页面布局篇](https://www.cnblogs.com/feffery/p/14276803.html)勘误：将`css`文件置于文中所述`assets`路径下时，无需再传入`external_stylesheets`参数，因为`dash`会自动识别并载入`assets`路径下所有文件
-- 2021.03.13 为[（数据科学学习手札103）Python+Dash快速web应用开发——页面布局篇](https://www.cnblogs.com/feffery/p/14276803.html)勘误：由于`dash_bootstrap_components`的更新，`Alert()`部件默认参数下没有背景色等样式，需添加`color`参数即可
-- 2021.04.24 为[（数据科学学习手札96）在geopandas中叠加在线地图](https://www.cnblogs.com/feffery/p/13763601.html)更新：需将`requests`降级到`2.24.0`才可在**科学上网**的同时正常使用在线地图叠加功能
-- 2021.05.09 为[（数据科学学习手札105）Python+Dash快速web应用开发——回调交互篇（中）](https://www.cnblogs.com/feffery/p/14349206.html)更新`app5`，解决了输入值不为数字时的漏洞
-- 2021.08.07 为**Python+Dash快速web应用开发**系列文章*交互表格篇*三篇修改`Times New Romer`为`Times New Roman`
-- 2021.12.29 为[（数据科学学习手札129）geopandas 0.10版本重要新特性一览](https://www.cnblogs.com/feffery/p/15472342.html)勘误：该文章对应`geopandas`版本（0.10.2）中的`sjoin_nearest()`，只会为左表匹配`max_distance`范围内，右表中距离其最近的单条或多条（存在多条右表记录距离相同时）记录，并不能匹配到`max_distance`范围内的所有右表记录值
-- 2022.10.30 为[（数据科学学习手札84）基于geopandas的空间数据分析——空间计算篇（上）](https://www.cnblogs.com/feffery/p/12909284.html)勘误：更新了基于缓冲区方法正确修复自交叉面要素拓扑非法问题的技巧示例
 
-***
-
-<a name="fourth"></a>
-
-## 7 🏃 To-do List:
-- [ ] **基于pysal的地理空间数据分析**
 
