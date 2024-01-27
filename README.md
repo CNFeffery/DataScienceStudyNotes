@@ -112,6 +112,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札154）geopandas0.14版本新特性一览](https://www.cnblogs.com/feffery/p/17709443.html)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札154）geopandas0.14版本新特性一览)
 - [（数据科学学习手札155）基于martin为在线地图构建字体切片服务](https://www.cnblogs.com/feffery/p/17846899.html)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札155）基于martin为在线地图构建字体切片服务)
 - [（数据科学学习手札156）地图可视化神器kepler.gl 3.0版本发布](https://www.cnblogs.com/feffery/p/17932811.html)
+- [（数据科学学习手札157）pandas新增case_when方法](https://www.cnblogs.com/feffery/p/17991230)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札157）pandas新增case_when方法)
 ***
 
 <a name="second"></a>
@@ -205,6 +206,7 @@ git clone https://gh.api.99988866.xyz/https://github.com/CNFeffery/DataScienceSt
 - [（数据科学学习手札131）pandas中的常用字符串处理方法总结](https://www.cnblogs.com/feffery/p/15584726.html)
 - [（数据科学学习手札134）pyjanitor：为pandas补充更多功能](https://www.cnblogs.com/feffery/p/15998079.html)
 - [（数据科学学习手札151）速通pandas2.0新版本干货内容](https://www.cnblogs.com/feffery/p/17290646.html)
+- [（数据科学学习手札157）pandas新增case_when方法](https://www.cnblogs.com/feffery/p/17991230)
 
 ***
 
