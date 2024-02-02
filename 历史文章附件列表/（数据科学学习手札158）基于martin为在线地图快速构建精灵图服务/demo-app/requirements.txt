@@ -1,0 +1,3 @@
+dash==2.15.0
+feffery_maplibre==0.0.1rc1
+Requests==2.31.0

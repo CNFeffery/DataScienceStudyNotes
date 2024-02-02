@@ -111,11 +111,12 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札155）基于martin为在线地图构建字体切片服务](https://www.cnblogs.com/feffery/p/17846899.html)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札155）基于martin为在线地图构建字体切片服务)
 - [（数据科学学习手札156）地图可视化神器kepler.gl 3.0版本发布](https://www.cnblogs.com/feffery/p/17932811.html)
 - [（数据科学学习手札157）pandas新增case_when方法](https://www.cnblogs.com/feffery/p/17991230)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札157）pandas新增case_when方法)
+- [（数据科学学习手札158）基于martin为在线地图快速构建精灵图服务](https://www.cnblogs.com/feffery/p/18003548)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札158）基于martin为在线地图快速构建精灵图服务)
 ***
 
 <a name="second"></a>
 
-## 2 :card_file_box: 专题系列：
+## 2 :card_file_box: 专题系列
 
 <a name="second-geopandas"></a>
 ### 2.1 :earth_asia: 基于geopandas的空间数据分析　🏊 `<持续更新中>` 
