@@ -112,6 +112,7 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札156）地图可视化神器kepler.gl 3.0版本发布](https://www.cnblogs.com/feffery/p/17932811.html)
 - [（数据科学学习手札157）pandas新增case_when方法](https://www.cnblogs.com/feffery/p/17991230)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札157）pandas新增case_when方法)
 - [（数据科学学习手札158）基于martin为在线地图快速构建精灵图服务](https://www.cnblogs.com/feffery/p/18003548)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札158）基于martin为在线地图快速构建精灵图服务)
+- [（数据科学学习手札159）使用ruff对Python代码进行自动美化](https://www.cnblogs.com/feffery/p/18128958)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札159）使用ruff对Python代码进行自动美化)
 ***
 
 <a name="second"></a>

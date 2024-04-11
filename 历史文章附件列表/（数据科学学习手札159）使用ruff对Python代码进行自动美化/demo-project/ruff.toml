@@ -1,0 +1,10 @@
+# # 限制每行最多20个字符
+# line-length = 20
+
+[format]
+# # 使用单引号
+# quote-style = "single"
+# # 缩进使用单个tab
+# indent-style = "tab"
+# # 启用docstring代码片段格式化
+# docstring-code-format = true
