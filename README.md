@@ -16,6 +16,7 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
 - :man_astronaut: [3 pandas相关](#pandas)
 - :ghost: [4 jupyter相关](#jupyter)
 - :penguin: [5 kepler.gl相关](#keplergl)
+- 🦆 [6 DuckDB相关](#duckdb)
 
 ***
 
@@ -240,5 +241,16 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
 
 ***
 
+<a name="duckdb"></a>
+## 6 🦆 DuckDB相关
+
+<p align="center">
+  <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo.png" width="320"></img>
+</p>
+
+
+- [（数据科学学习手札161）高性能数据分析利器DuckDB在Python中的使用](https://www.cnblogs.com/feffery/p/18233565)<br>
+
+***
 
 
