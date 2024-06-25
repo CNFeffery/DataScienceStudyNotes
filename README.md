@@ -116,7 +116,7 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札159）使用ruff对Python代码进行自动美化](https://www.cnblogs.com/feffery/p/18128958)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札159）使用ruff对Python代码进行自动美化)
 - [（数据科学学习手札160）使用miniforge代替miniconda](https://www.cnblogs.com/feffery/p/18158285)
 - [（数据科学学习手札161）高性能数据分析利器DuckDB在Python中的使用](https://www.cnblogs.com/feffery/p/18233565)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札161）高性能数据分析利器DuckDB在Python中的使用)
-- [（数据科学学习手札162）Python GIS神器geopandas 1.0版本发布](https://www.cnblogs.com/feffery/p/18267525)
+- [（数据科学学习手札162）Python GIS神器geopandas 1.0版本发布](https://www.cnblogs.com/feffery/p/18267525)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札162）Python%20GIS神器geopandas%201.0版本发布)
 ***
 
 <a name="second"></a>
@@ -158,6 +158,7 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
     - [（数据科学学习手札152）geopandas0.13版本更新内容一览](https://www.cnblogs.com/feffery/p/17379888.html)
     - [（数据科学学习手札153）基于martin的高性能矢量切片地图服务构建](https://www.cnblogs.com/feffery/p/17581158.html)
     - [（数据科学学习手札154）geopandas0.14版本新特性一览](https://www.cnblogs.com/feffery/p/17709443.html)
+    - [（数据科学学习手札162）Python GIS神器geopandas 1.0版本发布](https://www.cnblogs.com/feffery/p/18267525)
 
 ​    
 
