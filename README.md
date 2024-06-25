@@ -116,6 +116,7 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札159）使用ruff对Python代码进行自动美化](https://www.cnblogs.com/feffery/p/18128958)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札159）使用ruff对Python代码进行自动美化)
 - [（数据科学学习手札160）使用miniforge代替miniconda](https://www.cnblogs.com/feffery/p/18158285)
 - [（数据科学学习手札161）高性能数据分析利器DuckDB在Python中的使用](https://www.cnblogs.com/feffery/p/18233565)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札161）高性能数据分析利器DuckDB在Python中的使用)
+- [（数据科学学习手札162）Python GIS神器geopandas 1.0版本发布](https://www.cnblogs.com/feffery/p/18267525)
 ***
 
 <a name="second"></a>
