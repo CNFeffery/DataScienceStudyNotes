@@ -1,0 +1,67 @@
+{
+    "models": [
+      {
+        "model": "claude-3-5-sonnet-latest",
+        "provider": "anthropic",
+        "apiKey": "",
+        "title": "Claude 3.5 Sonnet"
+      },
+      {
+        "title": "DeepSeek Coder",
+        "model": "deepseek-coder",
+        "contextLength": 128000,
+        "apiKey": "<api-key>",
+        "provider": "deepseek"
+      }
+    ],
+    "tabAutocompleteModel": {
+      "title": "DeepSeek Coder",
+      "provider": "deepseek",
+      "model": "deepseek-coder",
+      "apiKey": "<api-key>"
+    },
+    "contextProviders": [
+      {
+        "name": "code",
+        "params": {}
+      },
+      {
+        "name": "docs",
+        "params": {}
+      },
+      {
+        "name": "diff",
+        "params": {}
+      },
+      {
+        "name": "terminal",
+        "params": {}
+      },
+      {
+        "name": "problems",
+        "params": {}
+      },
+      {
+        "name": "folder",
+        "params": {}
+      },
+      {
+        "name": "codebase",
+        "params": {}
+      }
+    ],
+    "slashCommands": [
+      {
+        "name": "share",
+        "description": "Export the current chat session to markdown"
+      },
+      {
+        "name": "cmd",
+        "description": "Generate a shell command"
+      },
+      {
+        "name": "commit",
+        "description": "Generate a git commit message"
+      }
+    ]
+  }

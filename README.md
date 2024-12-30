@@ -118,6 +118,7 @@ git clone https://gitee.com/cnfeffery/DataScienceStudyNotes.git
 - [（数据科学学习手札161）高性能数据分析利器DuckDB在Python中的使用](https://www.cnblogs.com/feffery/p/18233565)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札161）高性能数据分析利器DuckDB在Python中的使用)
 - [（数据科学学习手札162）Python GIS神器geopandas 1.0版本发布](https://www.cnblogs.com/feffery/p/18267525)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札162）Python%20GIS神器geopandas%201.0版本发布)
 - [（数据科学学习手札163）ibis：极具潜力的Python数据分析框架](https://www.cnblogs.com/feffery/p/18347233)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札163）ibis：极具潜力的Python数据分析框架)
+- [（数据科学学习手札164）在vscode中调用Deepseek进行AI辅助编程](https://www.cnblogs.com/feffery/p/18641478)　✈️[仓库路径](./历史文章附件列表/（数据科学学习手札164）在vscode中调用Deepseek进行AI辅助编程)
 ***
 
 <a name="second"></a>
